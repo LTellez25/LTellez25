@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Ingeniería en Computación, actualmente en mi cuarto año. Durante mi formación, he tenido la oportunidad de trabajar en diversos proyectos académicos y personales que me han permitido aplicar y perfeccionar mis habilidades en desarrollo de software.
+Durante mi formación, he tenido la oportunidad de trabajar en diversos proyectos académicos y personales que me han permitido aplicar y perfeccionar mis habilidades en desarrollo de software.
 
 Me apasiona la tecnología y el aprendizaje continuo. Estoy siempre en busca de nuevos desafíos y oportunidades para mejorar mis competencias técnicas y contribuir a la comunidad tecnológica.
 
